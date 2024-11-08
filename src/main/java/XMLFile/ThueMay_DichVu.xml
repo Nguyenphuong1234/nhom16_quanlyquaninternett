@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ThueMay_DichVuList>
+    <ThueMay_DichVu>
+        <MaThueMay>1</MaThueMay>
+        <MaDichVu>1</MaDichVu>
+        <SoLuong>2</SoLuong>
+    </ThueMay_DichVu>
+    <ThueMay_DichVu>
+        <MaThueMay>1</MaThueMay>
+        <MaDichVu>2</MaDichVu>
+        <SoLuong>5</SoLuong>
+    </ThueMay_DichVu>
+    <ThueMay_DichVu>
+        <MaThueMay>1</MaThueMay>
+        <MaDichVu>1</MaDichVu>
+        <SoLuong>1</SoLuong>
+    </ThueMay_DichVu>
+    <ThueMay_DichVu>
+        <MaThueMay>1</MaThueMay>
+        <MaDichVu>2</MaDichVu>
+        <SoLuong>2</SoLuong>
+    </ThueMay_DichVu>
+    <ThueMay_DichVu>
+        <MaThueMay>1</MaThueMay>
+        <MaDichVu>2</MaDichVu>
+        <SoLuong>1</SoLuong>
+    </ThueMay_DichVu>
+    <ThueMay_DichVu>
+        <MaThueMay>2</MaThueMay>
+        <MaDichVu>1</MaDichVu>
+        <SoLuong>5</SoLuong>
+    </ThueMay_DichVu>
+    <ThueMay_DichVu>
+        <MaThueMay>2</MaThueMay>
+        <MaDichVu>2</MaDichVu>
+        <SoLuong>2</SoLuong>
+    </ThueMay_DichVu>
+    <ThueMay_DichVu>
+        <MaThueMay>3</MaThueMay>
+        <MaDichVu>1</MaDichVu>
+        <SoLuong>5</SoLuong>
+    </ThueMay_DichVu>
+</ThueMay_DichVuList>

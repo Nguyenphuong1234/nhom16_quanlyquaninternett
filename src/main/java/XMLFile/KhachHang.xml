@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KhachHangList>
+    <KhachHang>
+        <MaKhachHang>1</MaKhachHang>
+        <TenKhachHang>Vũ Quang Anh</TenKhachHang>
+        <SoDienThoai>0886718203</SoDienThoai>
+        <Email>vuquanganh1802@gmail.com</Email>
+        <DiemTichLuy>0</DiemTichLuy>
+    </KhachHang>
+</KhachHangList>

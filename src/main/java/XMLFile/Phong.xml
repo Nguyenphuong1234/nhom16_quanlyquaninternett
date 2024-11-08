@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PhongList>
+    <Phong>
+        <MaPhong>1</MaPhong>
+        <TenPhong>Phòng thường</TenPhong>
+        <MoTa>Giá rẻ</MoTa>
+    </Phong>
+    <Phong>
+        <MaPhong>2</MaPhong>
+        <TenPhong>Phòng đắt </TenPhong>
+        <MoTa>Giá đắt</MoTa>
+    </Phong>
+</PhongList>

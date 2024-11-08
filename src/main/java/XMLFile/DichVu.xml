@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DichVuList>
+    <DichVu>
+        <MaDichVu>1</MaDichVu>
+        <TenDichVu>Coca</TenDichVu>
+        <GiaDichVu>15000.0</GiaDichVu>
+    </DichVu>
+    <DichVu>
+        <MaDichVu>2</MaDichVu>
+        <TenDichVu>Pepsi</TenDichVu>
+        <GiaDichVu>10000.0</GiaDichVu>
+    </DichVu>
+    <DichVu>
+        <MaDichVu>3</MaDichVu>
+        <TenDichVu>Cơm</TenDichVu>
+        <GiaDichVu>25000.0</GiaDichVu>
+    </DichVu>
+</DichVuList>

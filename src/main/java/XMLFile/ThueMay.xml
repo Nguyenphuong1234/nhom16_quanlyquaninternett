@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ThueMayList>
+    <ThueMay>
+        <MaThueMay>1</MaThueMay>
+        <MaKhachHang>0</MaKhachHang>
+        <MaMay>0</MaMay>
+        <ThoiGianKetThuc>2024-10-21T20:54:57.256+07:00</ThoiGianKetThuc>
+        <TongChiPhi>333950.0</TongChiPhi>
+        <MaPhong>0</MaPhong>
+    </ThueMay>
+    <ThueMay>
+        <MaThueMay>2</MaThueMay>
+        <MaKhachHang>1</MaKhachHang>
+        <MaMay>1</MaMay>
+        <ThoiGianBatDau>2024-10-21T23:36:30.438+07:00</ThoiGianBatDau>
+        <ThoiGianKetThuc>2024-10-21T23:38:02.295+07:00</ThoiGianKetThuc>
+        <TongChiPhi>95535.0</TongChiPhi>
+        <MaPhong>2</MaPhong>
+    </ThueMay>
+    <ThueMay>
+        <MaThueMay>3</MaThueMay>
+        <MaKhachHang>0</MaKhachHang>
+        <MaMay>1</MaMay>
+        <ThoiGianBatDau>2024-10-21T23:38:38.752+07:00</ThoiGianBatDau>
+        <ThoiGianKetThuc>2024-10-21T23:39:05.971+07:00</ThoiGianKetThuc>
+        <TongChiPhi>75160.0</TongChiPhi>
+        <MaPhong>2</MaPhong>
+    </ThueMay>
+</ThueMayList>

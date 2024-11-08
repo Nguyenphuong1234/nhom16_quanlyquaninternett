@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MayList>
+    <May>
+        <MaMay>1</MaMay>
+        <MaPhong>2</MaPhong>
+        <TrangThai>Rảnh</TrangThai>
+        <ThongSo>I7 16Gb </ThongSo>
+        <GiaTheoGio>25000.0</GiaTheoGio>
+    </May>
+    <May>
+        <MaMay>2</MaMay>
+        <MaPhong>1</MaPhong>
+        <TrangThai>Rảnh</TrangThai>
+        <ThongSo>I5 8GB</ThongSo>
+        <GiaTheoGio>10000.0</GiaTheoGio>
+    </May>
+    <May>
+        <MaMay>3</MaMay>
+        <MaPhong>2</MaPhong>
+        <TrangThai>Rảnh</TrangThai>
+        <ThongSo>I9 32GB</ThongSo>
+        <GiaTheoGio>30000.0</GiaTheoGio>
+    </May>
+</MayList>
